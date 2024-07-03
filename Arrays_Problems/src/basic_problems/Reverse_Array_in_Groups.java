@@ -7,7 +7,7 @@ public class Reverse_Array_in_Groups{
             System.out.print(nums.get(i)+" ");
         }
         System.out.println();
-    }
+    }+
     public static void reverseArray(ArrayList<Integer> nums, int k){
 
         int n = nums.size();
