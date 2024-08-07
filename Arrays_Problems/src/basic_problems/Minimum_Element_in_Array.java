@@ -15,7 +15,7 @@ public class Minimum_Element_in_Array {
 		}
 		return mini;
 	}
-
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
